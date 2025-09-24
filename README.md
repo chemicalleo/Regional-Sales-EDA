@@ -20,7 +20,7 @@ It covers performance across **regions, channels, states, and products**, as wel
 ├── data/
 │   └── Regional Sales Dataset.xlsx       # Source dataset (5 years of sales data)
 ├── notebooks/
-│   └── EDA on Regional Sales-2.ipynb     # Jupyter notebook with exploratory data analysis
+│   └── EDA on Regional Sales.ipynb     # Jupyter notebook with exploratory data analysis
 ├── outputs/
 │   ├── charts/                           # Auto-generated charts (PNG)
 │   │   ├── by_region_rev_profit.png
